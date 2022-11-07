@@ -1,7 +1,5 @@
 # WEDEO Collaboration MVP
 
-For the most up-to-date documentation go to: [serverless-saas.sidepage.co](https://serverless-saas.sidepage.co)
-
 ## Get Started
 
 The first time you setup a new project you can run `npm run install:initial`. This will install all dependencies in both the root and /functions directory. It will also copy the the `.env.local.example` file and rename it to `env.local` (you still need to update this with your credentials later). After running this command (or doing the steps manually), you should be able to run `npm run dev` to start the server on [localhost:3000](http://localhost:3000).

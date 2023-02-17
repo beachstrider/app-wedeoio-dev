@@ -1,4 +1,7 @@
-# WEDEO Collaboration MVP
+# WEDEO WEB 
+WEDEO.io is one central hub that lets you share media, track feedback, and streamline your workflow so your team can work closely together from anywhere in the world.
+
+https://user-images.githubusercontent.com/48445639/219713736-7680baae-2393-44f9-8ff0-8222f73e6b7e.mp4
 
 ## Get Started
 
